@@ -1,0 +1,11 @@
+Make,Age,Mileage,Fuel,Gearbox,Colour,Claimed
+Toyota,2,27000,P,A,Red,Yes
+Ford,4,30500,P,M,Black,Yes
+Toyota,15,120000,D,A,White,No
+Nissan,13,53000,D,M,White,No
+Nissan,2,,D,M,Black,No
+Ford,8,73000,,M,Green,No
+Toyota,,138000,P,M,,Yes
+Nissan,20,38000,D,,Green,Yes
+Toyota,13,67000,D,A,Blue,No
+Nissan,7,36000,P,M,Black,Yes
